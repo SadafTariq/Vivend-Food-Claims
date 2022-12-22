@@ -1,4 +1,5 @@
-# Vivendo Food Claims
+# Vivendo Food Claims 
+<img src="DataCamp.png" alt="DataCamp" width="90" height="90"/>
 
 This is a project I did for my DataCamp's Data Analyst (Associate) Certification, where I answered a number of business questions
 

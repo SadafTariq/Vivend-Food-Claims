@@ -1,13 +1,16 @@
 # Vivendo Food Claims 
 <img src="DataCamp.png" alt="DataCamp" width="90" height="90"/>
 
-This is a project I did for my DataCamp's Data Analyst (Associate) Certification, where I answered a number of business questions
+Vivendo is a fast food chain in Brazil with over 200 outlets. As with many fast food establishments, customers make claims against the company. For example, they blame Vivendo for suspected food poisoning.
 
-- Data was taken from vivendo food claim dataset (the dataset was provided by datacamp)
-- Utilized Excel and SQL for Data Validation and cleaning tasks before analysis
-- Used SQL for exploratory data analysis Used Python for visualizations
-- Successfully defended the analysis
-- A report is generated and published on datacamp's workspace
+The legal team, who processes these claims, is currently split across four locations. The new head of the legal department wants to see if there are differences in the time it takes to close claims across the locations.
+
+## Customer Question
+The legal team has given a data set where each row is a claim made against the company. They would like to have answer of the following questions:
+
+- How does the number of claims differ across locations?
+- What is the distribution of time to close claims?
+- How does the average time to close claims differ by location?
 
 ### This project includes
 
